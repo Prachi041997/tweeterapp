@@ -1,0 +1,10 @@
+.cardWrapper {
+    width: 100vw;
+    height: auto;
+    padding: 20px 60px;
+    background-color: rgb(250, 247, 248);
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}

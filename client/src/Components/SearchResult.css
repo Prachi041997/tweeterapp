@@ -1,0 +1,65 @@
+.header {
+    width: 80vw;
+    height: 70px;
+    /* background-color: rebeccapurple; */
+    display: flex;
+    padding-left: 60px;
+    padding-top: 20px;
+}
+.title {
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+.searchbar {
+    position: relative;
+    width: 48%;
+    height: 100%;
+    /* background-color: pink; */
+    display: flex;
+    align-items: center;
+}
+.button {
+    width: 20%;
+    height: 100%;
+    /* background-color: aliceblue; */
+    display: flex;
+    align-items: center;
+}
+.userpageTitle {
+    /* margin-bottom: 20px; */
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.iconuser {
+    color: #1A91DA;
+    font-size: 40px !important;
+}
+span {
+    margin: 0 10px 
+}
+.searchbutton {
+    padding: 5px 28px;
+    background-color: #1A91DA;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 500;
+}
+
+.cardWrapper {
+    width: 100vw;
+    height: auto;
+    padding: 20px 60px;
+    background-color: rgb(250, 247, 248);
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
